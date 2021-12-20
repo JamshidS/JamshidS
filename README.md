@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamshidS
-- 👀 I’m interested in Python,C#, JavaScript, C,C++
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Python,C#, JavaScript, C,C++,java
+- 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me jamshidsadiqi25@gmail.com
 
