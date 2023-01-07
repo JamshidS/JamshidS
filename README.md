@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamshid Sadik</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw0YCyDANkQA8CPdD1S0-WGU&ust=1673179845356000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiQ_eS2tfwCFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 
 
@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jamshid sadiqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshid sadiqi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamshid sadiqi" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshid sadiqi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
