@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshids&label=Profile%20views&color=0e75b6&style=flat" alt="jamshids" /> </p>
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **Java and Python Projects**
 
 - 💬 Ask me about **AI,Python,Java,Spring Boot**
 
