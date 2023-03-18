@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman:bold&color=%06088B&size=19&duration=3000&vCenter=true&multiline=true&height=100&lines=Hey%2C+I'm+Jamshid+Sadik%3B+Software+Engineer)](https://git.io/typing-svg)
 
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Animated Java code snippet" src="https://codepen.io/ShrutiGupta16/embed/preview/qBmJeGV?default-tab=js%2Cresult&editable=true&theme=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
-
-
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 
