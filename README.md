@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jamshid Sadik</h1>
-<h3 align="center">Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman:bold&color=%06088B&size=19&duration=3000&vCenter=true&multiline=true&height=100&lines=Hey%2C+I'm+Jamshid+Sadik%3B+Software+Engineer)](https://git.io/typing-svg)
+
+
+
 
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
