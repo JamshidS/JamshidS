@@ -30,4 +30,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshids&" alt="jamshids" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshids&amp;theme=dark" alt="jamshids" /></p>
+
