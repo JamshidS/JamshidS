@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman:bold&color=%06088B&size=19&duration=3000&vCenter=true&multiline=true&height=100&lines=Hey%2C+I'm+Jamshid+Sadık%3B+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman:bold&color=%06088B&size=19&duration=3000&vCenter=true&multiline=true&height=100&lines=Hey%2C+I'm+Jamshid+Sadık%3B+Software+Engneer)](https://git.io/typing-svg)
 
 
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
