@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI,Python,Java,Spring Boot**
 
-- 📫 How to reach me **jamshidsadiqi12@gmail.com**
+- 📫 How to reach me **jamshidsadiqi25@gmail.com**
 
 - ⚡ Fun fact **😎**
 
