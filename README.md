@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Jamshid Sadık
+# Jamshid Sadık
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;System+Architect;Building+Scalable+Systems)](https://git.io/typing-svg)
 
