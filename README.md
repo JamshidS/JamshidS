@@ -1,119 +1,151 @@
 <div align="center">
 
-# Jamshid Sadık
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;System+Architect;Building+Scalable+Systems)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamshid-sadiqi-a51b42235)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamshidsadiqi25@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jamshids&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/jamshids)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=%24+ssh+jamshid%40prod;Connected.+Backend+Engineer+%C2%B7+System+Architect;Building+scalable+systems%2C+one+endpoint+at+a+time_" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=1A7F37&center=true&vCenter=true&width=640&lines=%24+ssh+jamshid%40prod;Connected.+Backend+Engineer+%C2%B7+System+Architect;Building+scalable+systems%2C+one+endpoint+at+a+time_" />
+  <img alt="$ ssh jamshid@prod" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=%24+ssh+jamshid%40prod;Connected.+Backend+Engineer+%C2%B7+System+Architect;Building+scalable+systems%2C+one+endpoint+at+a+time_" />
+</picture>
 
 </div>
 
----
+```console
+     ██╗ █████╗ ███╗   ███╗███████╗██╗  ██╗██╗██████╗
+     ██║██╔══██╗████╗ ████║██╔════╝██║  ██║██║██╔══██╗
+     ██║███████║██╔████╔██║███████╗███████║██║██║  ██║
+██   ██║██╔══██║██║╚██╔╝██║╚════██║██╔══██║██║██║  ██║
+╚█████╔╝██║  ██║██║ ╚═╝ ██║███████║██║  ██║██║██████╔╝
+ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝
 
-## 💼 About Me
+Last login: today from github.com
+jamshid@prod:~$ whoami
+Jamshid Sadık — Software Engineer
+  ├─ backend development
+  ├─ api design
+  └─ system architecture
 
-```java
-public class BackendEngineer {
-    private String name = "Jamshid Sadık";
-    private String role = "Software Engineer";
-    private String[] specializations = {"Backend Development", "API Design", "System Architecture"};
-    private String currentFocus = "Building scalable microservices with Spring Boot";
-    
-    public String[] getTechStack() {
-        return new String[]{
-            "Java", "Python", "Spring Boot", 
-            "PostgreSQL", "Docker", "RESTful APIs"
-        };
-    }
-    
-    public boolean isAvailableForCollaboration() {
-        return true; // Always open to interesting projects!
-    }
-}
+jamshid@prod:~$ uname -a
+Backend-Engineer 2026.10 Java/Python/Go x86_64 Spring-Boot FastAPI GNU/Linux
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### `jamshid@prod:~$ cat ~/.config/stack.yaml`
 
-### **Backend & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **ML & Data Engineering**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+```yaml
+languages:
+  primary:   [java, python, go]
+frameworks:
+  backend:   [spring-boot, fastapi, flask]
+  style:     [rest, microservices]
+data:
+  sql:       [postgresql, mysql, sqlite]
+  nosql:     [mongodb, dynamodb, redis]
+ml:          [pandas, numpy, scikit-learn, tensorflow]
+infra:
+  runtime:   docker
+  cloud:     [aws, gcp]
+```
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshids&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamshidS&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cgo%2Cfastapi%2Cflask%2Cpostgres%2Cmysql%2Csqlite%2Cmongodb%2Cdynamodb%2Credis%2Csklearn%2Ctensorflow%2Cdocker%2Caws%2Cgcp&perline=9&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cgo%2Cfastapi%2Cflask%2Cpostgres%2Cmysql%2Csqlite%2Cmongodb%2Cdynamodb%2Credis%2Csklearn%2Ctensorflow%2Cdocker%2Caws%2Cgcp&perline=9&theme=light" />
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cgo%2Cfastapi%2Cflask%2Cpostgres%2Cmysql%2Csqlite%2Cmongodb%2Cdynamodb%2Credis%2Csklearn%2Ctensorflow%2Cdocker%2Caws%2Cgcp&perline=9&theme=dark" />
+  </picture>
 </div>
 
 ---
 
-## 🎯 Current Focus
+### `jamshid@prod:~$ ps aux --sort=-%cpu | head`
 
-- 🔨 Building **scalable microservices** with Spring Boot & FastAPI
-- ☁️ Deploying and scaling applications on **AWS & GCP**
-- 🧠 Working with **ML pipelines** and data engineering workflows
-- 🏗️ Mastering **system design** and distributed architecture patterns
-- 🤝 Open to collaborating on **backend** and **data engineering** projects
-
----
-
-## 💡 Core Expertise
-
-```python
-expertise = {
-    "backend_development": ["Spring Boot", "FastAPI", "Flask", "RESTful APIs", "Microservices"],
-    "cloud_infrastructure": ["AWS Services", "GCP Services", "Application Deployment", "Auto-scaling"],
-    "databases": ["SQL Optimization", "Database Design", "PostgreSQL", "MySQL"],
-    "ml_data_engineering": ["Pandas", "NumPy", "scikit-learn", "Data Pipelines"],
-    "system_design": ["Distributed Systems", "Architecture Patterns", "Scalability", "Performance"]
-}
+```console
+USER     PID  %CPU  STAT  COMMAND
+jamshid  101  42.0  R     build --microservices --with spring-boot,fastapi
+jamshid  102  23.5  R     deploy --cloud aws,gcp --autoscale
+jamshid  103  17.2  S     pipeline --ml --data-engineering
+jamshid  104  11.8  S     study --system-design --distributed-patterns
+jamshid  105   5.5  S     listen --collab backend,data-engineering   # always on
 ```
 
 ---
 
-## 📫 Let's Connect
+### `jamshid@prod:~$ tree ~/expertise`
 
-I'm always interested in discussing:
-- 🎯 System design and scalable architecture
-- ☁️ Cloud infrastructure and deployment strategies
-- 🤖 ML/Data engineering integration with backend services
-- 💼 Collaboration opportunities
+```console
+~/expertise
+├── backend_development/
+│   ├── spring-boot  fastapi  flask
+│   └── rest-apis  microservices
+├── cloud_infrastructure/
+│   ├── aws  gcp
+│   └── deployment  auto-scaling
+├── databases/
+│   ├── sql-optimization  schema-design
+│   └── postgresql  mysql
+├── ml_data_engineering/
+│   └── pandas  numpy  scikit-learn  data-pipelines
+└── system_design/
+    └── distributed-systems  architecture-patterns  scalability  performance
 
-**Reach out:** [jamshidsadiqi25@gmail.com](mailto:jamshidsadiqi25@gmail.com)
+5 directories, 21 skills
+```
 
 ---
 
+### `jamshid@prod:~$ gh stats --user JamshidS`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&hide_border=true&theme=default" />
+    <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&hide_border=true&theme=github_dark" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JamshidS&hide_border=true&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JamshidS&hide_border=true&theme=default" />
+    <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=JamshidS&hide_border=true&theme=github-dark-blue" />
+  </picture>
+</div>
+
+### `jamshid@prod:~$ git log --graph --all`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamshidS/JamshidS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamshidS/JamshidS/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/JamshidS/JamshidS/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+### `jamshid@prod:~$ curl -X POST localhost:8080/api/v1/collaborate`
+
+```http
+HTTP/1.1 201 Created
+Content-Type: application/json
+
+{
+  "status": "open_to_collaboration",
+  "topics": [
+    "system design & scalable architecture",
+    "cloud infrastructure & deployment strategies",
+    "ml / data engineering x backend services"
+  ],
+  "next": "pick a channel below ↓"
+}
+```
+
 <div align="center">
 
-### ⚡ "Clean code, robust APIs, scalable systems"
-
-*Building the backbone of applications, one endpoint at a time.*
+[![LinkedIn](https://img.shields.io/badge/linkedin-jamshid--sadiqi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/jamshid-sadiqi-a51b42235)
+[![Email](https://img.shields.io/badge/mail-jamshidsadiqi25%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:jamshidsadiqi25@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=JamshidS&label=sessions&color=3FB950&style=flat-square)](https://github.com/JamshidS)
 
 </div>
+
+```console
+jamshid@prod:~$ exit
+logout — "Clean code, robust APIs, scalable systems."
+Connection to prod closed.
+```
